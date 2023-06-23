@@ -1,4 +1,4 @@
-/*console.log("Hello World Javascript!")
+console.log("Hello World Javascript!")
 
 //console 
 console.error("Isto é um erro!")
@@ -115,7 +115,7 @@ console.log(produto.name)
 console.log(produto['name'])
 
 console.log(produto['Cor'])
-
+/*
 //destructuring
 
 const {preco, instock} = produto
